@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=north": {"model": "futuremc:block/barrel"},
+        "facing=south": {"model": "futuremc:block/barrel", "y": 180},
+        "facing=west": {"model": "futuremc:block/barrel", "y": 270},
+        "facing=east": {"model": "futuremc:block/barrel", "y": 90},
+        "facing=up": {"model": "futuremc:block/barrel", "x": -90},
+        "facing=down": {"model": "futuremc:block/barrel", "x": 90}
+    }
+}
